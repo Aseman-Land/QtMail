@@ -1,3 +1,3 @@
 TEMPLATE = subdirs
-SUBDIRS = mail
+# SUBDIRS = mail
 
